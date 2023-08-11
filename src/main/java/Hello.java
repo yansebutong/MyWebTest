@@ -1,5 +1,7 @@
 public class Hello {
 
-    System.out.println("Hello world!");
+    public void showMessage() {
+        System.out.println("Hello World!");
+    }
 
 }
