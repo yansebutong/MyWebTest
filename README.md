@@ -1,0 +1,1 @@
+This is a web application, which is used to test maven and git.
