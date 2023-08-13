@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78b35f2a-589c-47ec-a9b6-2eff5d0abba8" name="Changes" comment="successfully run web demo">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78b35f2a-589c-47ec-a9b6-2eff5d0abba8" name="Changes" comment="test new email" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.18505748",
     "settings.build.tools.auto.reload": "ALL",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -175,6 +172,7 @@
       <workItem from="1691866764791" duration="951000" />
       <workItem from="1691914648965" duration="4062000" />
       <workItem from="1691918834517" duration="2408000" />
+      <workItem from="1691929092048" duration="408000" />
     </task>
     <task id="LOCAL-00001" summary="successfully run web demo">
       <option name="closed" value="true" />
@@ -184,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691920803792</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test new email">
+      <option name="closed" value="true" />
+      <created>1691929246545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691929246545</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +198,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="successfully run web demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="successfully run web demo" />
+    <MESSAGE value="test new email" />
+    <option name="LAST_COMMIT_MESSAGE" value="test new email" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
