@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78b35f2a-589c-47ec-a9b6-2eff5d0abba8" name="Changes" comment="test new email" />
+    <list default="true" id="78b35f2a-589c-47ec-a9b6-2eff5d0abba8" name="Changes" comment="add git ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +172,7 @@
       <workItem from="1691866764791" duration="951000" />
       <workItem from="1691914648965" duration="4062000" />
       <workItem from="1691918834517" duration="2408000" />
-      <workItem from="1691929092048" duration="408000" />
+      <workItem from="1691929092048" duration="526000" />
     </task>
     <task id="LOCAL-00001" summary="successfully run web demo">
       <option name="closed" value="true" />
@@ -190,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691929246545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add git ignore">
+      <option name="closed" value="true" />
+      <created>1691929599849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691929599849</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="successfully run web demo" />
     <MESSAGE value="test new email" />
-    <option name="LAST_COMMIT_MESSAGE" value="test new email" />
+    <MESSAGE value="add git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git ignore" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
